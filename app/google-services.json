@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877924771066",
+    "firebase_url": "https://mobilityapp-825e8.firebaseio.com",
+    "project_id": "mobilityapp-825e8",
+    "storage_bucket": "mobilityapp-825e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877924771066:android:75797c54e3f4b52e",
+        "android_client_info": {
+          "package_name": "com.deloitte.vjaju.mobilityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877924771066-ccpfs6q5peufgvd5ecf96o2cvgkj6rkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deloitte.vjaju.mobilityapp",
+            "certificate_hash": "b89515f6cd410f2a8383490775764dad427d8999"
+          }
+        },
+        {
+          "client_id": "877924771066-45cjiv0dua158utn7ukno7qvaq0agnn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR2r_4pPgR-iNPwzZBB3Gaj4SpY84IwC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877924771066-45cjiv0dua158utn7ukno7qvaq0agnn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

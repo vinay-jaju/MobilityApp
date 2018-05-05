@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+</android.support.constraint.ConstraintLayout>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<ScrollView-->
+<!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--tools:context=".Dashboard"-->
+<!--android:layout_height="fill_parent"-->
+<!--android:layout_width="fill_parent">-->
+
+<!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:isScrollContainer="true"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="#000"-->
+        <!--android:orientation="horizontal">-->
+
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imageView"-->
+            <!--android:layout_width="139dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--app:srcCompat="@drawable/capture" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/textView"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_weight="1"-->
+            <!--android:gravity="center_vertical|center_horizontal"-->
+            <!--android:text="Welcome Joe, \n RickRetail VP"-->
+            <!--android:textColor="@android:color/background_light"-->
+            <!--android:textSize="18sp" />-->
+
+    <!--</LinearLayout>-->
+
+
+    <!--<com.wajahatkarim3.easyflipview.EasyFlipView-->
+        <!--android:id="@+id/easyFlipView1"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:flipDuration="500"-->
+        <!--app:flipEnabled="true"-->
+        <!--app:flipOnTouch="true"-->
+        <!--app:flipType="horizontal"-->
+
+        <!--&gt;-->
+
+        <!--&lt;!&ndash; Back Layout Goes Here &ndash;&gt;-->
+        <!--<include layout="@layout/card_row2" />-->
+
+        <!--&lt;!&ndash; Front Layout Goes Here &ndash;&gt;-->
+        <!--<include layout="@layout/card_row1" />-->
+
+    <!--</com.wajahatkarim3.easyflipview.EasyFlipView>-->
+
+    <!--<com.wajahatkarim3.easyflipview.EasyFlipView-->
+        <!--android:id="@+id/easyFlipView2"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:flipDuration="500"-->
+        <!--app:flipEnabled="true"-->
+        <!--app:flipOnTouch="true"-->
+        <!--app:flipType="horizontal"-->
+
+        <!--&gt;-->
+
+        <!--&lt;!&ndash; Back Layout Goes Here &ndash;&gt;-->
+        <!--<include layout="@layout/card_row2" />-->
+
+        <!--&lt;!&ndash; Front Layout Goes Here &ndash;&gt;-->
+        <!--<include layout="@layout/card_row_kpi_front" />-->
+
+    <!--</com.wajahatkarim3.easyflipview.EasyFlipView>-->
+
+    <!--<com.wajahatkarim3.easyflipview.EasyFlipView-->
+        <!--android:id="@+id/easyFlipView3"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:flipDuration="500"-->
+        <!--app:flipEnabled="true"-->
+        <!--app:flipOnTouch="true"-->
+        <!--app:flipType="horizontal"-->
+
+        <!--&gt;-->
+
+        <!--&lt;!&ndash; Back Layout Goes Here &ndash;&gt;d-->
+        <!--<include layout="@layout/card_row2"-->
+            <!--/>-->
+
+        <!--&lt;!&ndash; Front Layout Goes Here &ndash;&gt;-->
+        <!--<include layout="@layout/notification" />-->
+
+    <!--</com.wajahatkarim3.easyflipview.EasyFlipView>-->
+
+<!--</LinearLayout>-->
+<!--</ScrollView>-->
